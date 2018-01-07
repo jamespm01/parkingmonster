@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<package>
+  <metadata>
+    <id>Demo</id>
+    <version>$version</version>
+    <authors>Visma Spcs</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Visma eAccounting Time.  Nuget Package</description>
+  </metadata>
+  <files>
+    <file src="..\Sites\_PublishedWebsites\DEMO_LOCAL\**\*.*" target="" />
+  </files>
+</package>
