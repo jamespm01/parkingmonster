@@ -8,7 +8,7 @@
     <description>Demo</description>
   </metadata>
   <files>
-    <file src="..\Sites\_PublishedWebsites\parking-monster\**\*.*" target="" />
+    <file src="..\parking-monster\Sites\_PublishedWebsites\parking-monster\**\*.*" target="" />
   </files>
 </package>
 
