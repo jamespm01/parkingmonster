@@ -1,13 +1,15 @@
 <?xml version="1.0" ?>
 <package>
   <metadata>
-    <id>Demo</id>
+    <id>parking-monster</id>
     <version>$version</version>
     <authors>Visma Spcs</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Visma eAccounting Time.  Nuget Package</description>
+    <description>Demo</description>
   </metadata>
   <files>
-    <file src="..\Sites\_PublishedWebsites\DEMO_LOCAL\**\*.*" target="" />
+    <file src="..\Sites\_PublishedWebsites\parking-monster\**\*.*" target="" />
   </files>
 </package>
+
+<!-- File src (Team Server) = C:\TeamCity\buildAgent\work\751c399745e782c8\parking-monster\Sites\_PublishedWebsites\parking-monster -->
