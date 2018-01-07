@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>parking-monster</id>
-    <version>$version</version>
+    <version></version>
     <authors>Visma Spcs</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Demo</description>
