@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parking-monster", "parking-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", "{B786C8EF-630B-455E-9E32-7839AAA23101}"
 	ProjectSection(SolutionItems) = preProject
-		Deployment\parking-monsterr.nuspec = Deployment\parking-monsterr.nuspec
+		Deployment\parking-monster.nuspec = Deployment\parking-monster.nuspec
 	EndProjectSection
 EndProject
 Global
