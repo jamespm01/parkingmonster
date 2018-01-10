@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace parking_monster.Models
 {
+
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
